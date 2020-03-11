@@ -2,4 +2,4 @@
 
 ## How to launch
 
-Start the both crawler and the sear services
+Start the both crawler and the search services
