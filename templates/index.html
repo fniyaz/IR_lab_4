@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>YASE</title>
+</head>
+<body>
+<h1>
+    Yet Another Search Engine
+</h1>
+
+<form action="{{ url_for('search') }}" method="get" align="center" id="fff">
+    <label>
+        Query
+        <input type="text" name="query">
+    </label>
+    <input type="submit">
+</form>
+
+</body>
+</html>
